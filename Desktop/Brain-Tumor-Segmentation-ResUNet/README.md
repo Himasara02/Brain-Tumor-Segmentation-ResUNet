@@ -112,6 +112,4 @@ This project is open source and available under the [MIT License](LICENSE).
 📧 himasara.divya@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/himasaraK/) | [GitHub](https://github.com/Himasara02)
 
----
-
-⭐ If you found this project helpful, please give it a star!
+ 
